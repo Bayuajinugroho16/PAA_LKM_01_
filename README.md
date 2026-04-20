@@ -46,3 +46,9 @@ REST API untuk sistem penyewaan kamera. Dibuat untuk memenuhi tugas LKM 01 mata 
   "status": "success",
   "data": { ... }
 }
+
+### Error
+{
+  "status": "error",
+  "message": "Kamera tidak ditemukan"
+}
